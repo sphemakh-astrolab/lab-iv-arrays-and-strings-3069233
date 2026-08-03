@@ -244,7 +244,7 @@ search (Part A) with string length (Part B) — exactly the kind of small data q
 5. When you are finished, leave a **comment on the Feedback pull request** saying
    so, and let your instructor know.
 
-> **Deadline: midnight tonight.** Push your work before then. You can keep
+> **Deadline: Friday 7 August, 23:59.** Push your work before then. You can keep
 > pushing right up to the deadline — each push updates the Feedback pull request,
 > so there is nothing else to submit.
 
